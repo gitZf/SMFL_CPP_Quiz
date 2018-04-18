@@ -1,0 +1,200 @@
+Q 1.Which of the following WAN technology types has the greatest layency?
+Q
+ISDN
+F
+Fiber
+F
+Satellite
+T
+Cable
+F
+Q 2.Given subnet mask of 255.255.255.0 how many usable IP adresses would be in that subnet?
+F
+250
+F
+254
+T
+255
+F
+256
+F
+Q 3.The APIPA address 169.254.10.123 falls into witch of the following class of addresses?
+F
+A
+F
+B
+T
+C
+F
+D
+F
+Q 4.Which of the following network protocols is used to transport email across the internat?
+F
+NTP
+F
+SSH
+F
+SMTP
+T
+SNMP
+F
+Q 5.The TCP/IP application layer contains which of the following OSI layers?
+F
+Layers 1,5,6,7
+F
+Layers 4,7
+F
+Layers 5,6,7
+T
+Layers 7
+F
+Q 6.Which of the following would be used to check whatever a DoS attack is taking place from a specific remote subnet?
+F
+Syslog files
+F
+Honeypot
+F
+Network sniffer
+T
+tracert
+F
+Q 7.Which of the following STP states indicates an inactivated port due to a loop?
+F
+Disabled
+F
+Learning
+F
+Blocking
+T
+Forwarding
+F
+Q 8.Which of the following is a specialized piece of hardware designed to encrypt and decrypt user traffic?
+F
+Proxy server
+F
+TDR
+F
+Smart jack
+F
+VPN contractor
+T
+Q 9.Which of the following commands displays the routing table on a server or workstation?
+F
+nbstat
+F
+route
+T
+tracert
+F
+nmap
+F
+Q 10.which of the following TCP/IP model layers does the OSI model Presentation layer map to?
+F
+Transport
+F
+Internet
+F
+Application
+T
+Network Interface
+F
+Q 11.ADSL is the abbreviation of?
+F
+Asymmetric Digital Subscriber Line
+T
+Asymmetric Dual Subscriber Line
+F
+Asymmetric Dual System Line
+F
+Asymmetric Digital System Line
+F
+Q 12.Router operates in which layer of OSI Reference Model?
+F
+Layer 4 (Transport Layer)
+F
+Layer 3 (Network Layer)
+T
+Layer 7 (Application Layer)
+F
+Layer 1 (Physical Layer)
+F
+Q 13.DHCP is the abbreviation of?
+F
+Dynamic Hyper Configuration Protocol
+F
+Dynamic Hyper Control Protocol
+F
+Dynamic Host Control Protocol
+F
+Dynamic Host Configuration Protocol
+T
+Q 14.Computer Network is?
+F
+Interconnected by communication channels
+F
+All
+T
+Sharing of resources and information
+F
+Collection of hardware components and computers
+F
+Q 15.What is the meaning of Bandwidth in Network?
+F
+Class of IP used in Network
+F
+Transmission capacity of a communication channels
+T
+Connected Computers in the Network
+F
+None
+F
+Q 16.IPV4 Address is?
+F
+8 bit
+F
+16 bit
+F
+64 bit
+F
+32 bit
+T
+Q 17.What is the use of Bridge in Network?
+F
+All
+F
+to separate LANs
+F
+to connect LANs
+T
+to control Network Speed
+F
+Q 18.What is a Firewall in Computer Network?
+F
+The physical boundary of Network
+F
+An operating System of Computer Network
+F
+A system designed to prevent unauthorized access
+T
+A web browsing Software 
+F
+Q 19.DNS is the abbreviation of?
+F
+Dynamic Name System
+F
+Domain Name System
+T
+Domain Network Service
+F
+Dynamic Network System
+F
+Q 20.How many layers does OSI Reference Model has?
+F
+7
+T
+4
+F
+6
+F
+5
+F

@@ -1,0 +1,11 @@
+﻿  Quiz.cpp
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\quiz\quiz\quiz.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\quiz\quiz\quiz.cpp(112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\quiz\quiz\quiz.cpp(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\quiz\quiz\quiz.cpp(180): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\quiz\quiz\quiz.cpp(284): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\quiz\quiz\quiz.cpp(559): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\quiz\quiz\quiz.cpp(638): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\zolta\onedrive\documents\visual studio 2015\projects\quiz\quiz\quiz.cpp(660): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Quiz.vcxproj -> C:\Users\zolta\OneDrive\Documents\Visual Studio 2015\Projects\Quiz\Debug\Quiz.exe
+  Quiz.vcxproj -> C:\Users\zolta\OneDrive\Documents\Visual Studio 2015\Projects\Quiz\Debug\Quiz.pdb (Full PDB)
