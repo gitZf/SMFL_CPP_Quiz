@@ -1,0 +1,19 @@
+﻿  Leaderboard.cpp
+Leaderboard.cpp(13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  Question.cpp
+  Quiz.cpp
+Quiz.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Quiz.cpp(112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Quiz.cpp(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Quiz.cpp(180): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Quiz.cpp(284): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Quiz.cpp(559): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Quiz.cpp(638): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Quiz.cpp(660): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  stdafx.cpp
+  Generating code
+  All 701 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Quiz.vcxproj -> C:\Users\orgis\Documents\DELETE\SMFL_CPP_Quiz-master\SMFL_CPP_Quiz-master\x64\Release\Quiz.exe
+  Quiz.vcxproj -> C:\Users\orgis\Documents\DELETE\SMFL_CPP_Quiz-master\SMFL_CPP_Quiz-master\x64\Release\Quiz.pdb (Full PDB)
